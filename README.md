@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desenvolver uma página de login, que tenha verificação nos campos de usuário e senha ao tentar logar na aplicação. Caso o dados não sejam passados corretamente, o sistema deve alertar para corrigir o dado. Para animar a tela, foi utilizada a biblioteca particles.js .
 
-- [Visite o projeto]()
+- [Visite o projeto](https://wilkasantos.github.io/desafioBoraCodar-login/)
 
 <br>
 ## 🔖 Layout
